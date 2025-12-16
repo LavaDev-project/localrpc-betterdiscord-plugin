@@ -1,0 +1,1 @@
+# localrpc-betterdiscord-plugin
